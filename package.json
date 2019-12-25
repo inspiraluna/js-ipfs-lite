@@ -77,6 +77,7 @@
   },
   "dependencies": {
     "@ipld/block": "^2.1.1",
+    "@ipld/get-codec": "^2.0.5",
     "bignumber.js": "^9.0.0",
     "es6-promisify": "^6.0.2",
     "ipfs-bitswap": "^0.26.0",
@@ -94,6 +95,7 @@
     "libp2p-websocket-star-multi": "^0.4.4",
     "libp2p-websockets": "^0.12.4",
     "merge-options": "^2.0.0",
+    "multicodec": "^0.5.3",
     "pull-mplex": "^0.1.2",
     "tslib": "^1.10.0"
   }
